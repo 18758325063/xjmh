@@ -1,0 +1,152 @@
+Quick-Cocos2d-x C++ support ready.
+
+------------------------------------------------
+
+LOAD LUA FILE: E:/workspace/LostRoutes/src/main.lua
+
+------------------------------------------------
+
+[LUA-print] ===========================================================
+
+[LUA-print]               LOAD QUICK FRAMEWORK
+
+[LUA-print] ===========================================================
+
+[LUA-print] [INFO] 
+
+[LUA-print] [INFO] # DEBUG                        = 1
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # device.platform              = windows
+
+[LUA-print] [INFO] # device.model                 = unknown
+
+[LUA-print] [INFO] # device.language              = cn
+
+[LUA-print] [INFO] # device.writablePath          = E:\workspace\LostRoutes\
+
+[LUA-print] [INFO] # device.directorySeparator    = \
+
+[LUA-print] [INFO] # device.pathSeparator         = ;
+
+[LUA-print] [INFO] #
+
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 960.00
+
+[LUA-print] [INFO] # display.widthInPixels        = 640.00
+
+[LUA-print] [INFO] # display.heightInPixels       = 960.00
+
+[LUA-print] [INFO] # display.contentScaleFactor   = 1.00
+
+[LUA-print] [INFO] # display.width                = 640.00
+
+[LUA-print] [INFO] # display.height               = 960.00
+
+[LUA-print] [INFO] # display.cx                   = 320.00
+
+[LUA-print] [INFO] # display.cy                   = 480.00
+
+[LUA-print] [INFO] # display.left                 = 0.00
+
+[LUA-print] [INFO] # display.right                = 640.00
+
+[LUA-print] [INFO] # display.top                  = 960.00
+
+[LUA-print] [INFO] # display.bottom               = 0.00
+
+[LUA-print] [INFO] # display.c_left               = -320.00
+
+[LUA-print] [INFO] # display.c_right              = 320.00
+
+[LUA-print] [INFO] # display.c_top                = 480.00
+
+[LUA-print] [INFO] # display.c_bottom             = -480.00
+
+[LUA-print] [INFO] #
+
+[LUA-print] LoadingScene init
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [64] to [86].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [86] to [116].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [116] to [156].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [156] to [209].
+
+[LUA-print] frameName = loding1.png
+
+[LUA-print] frameName = loding2.png
+
+[LUA-print] frameName = loding3.png
+
+[LUA-print] frameName = loding4.png
+
+[LUA ERROR] [string "framework/cc/mvc/AppBase.lua"]:40: attempt to index local 'sceneClass' (a boolean value)
+
+[LUA-print] LoadingScene onEnter
+
+[LUA-print] LoadingScene onEnterTransitionFinish
+
+[LUA-print] loading textrue ok.
+
+[LUA-print] HomeScene init
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [64] to [86].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [86] to [116].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [116] to [156].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [156] to [209].
+
+[LUA-print] LoadingScene onExitTransitionStart
+
+[LUA-print] LoadingScene onExit
+
+[LUA-print] HomeScene onEnter
+
+[LUA-print] HomeScene onEnterTransitionFinish
+
+[LUA-print] GamePlayScene init
+
+[LUA-print] 背景层初始化
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [64] to [86].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [86] to [116].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [116] to [156].
+
+cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [156] to [209].
+
+Get data from file(particle/light-1.png) failed, error code is 3
+
+[LUA-print] HomeScene onExitTransitionStart
+
+[LUA-print] GamePlayScene onEnter
+
+Get data from file(particle/air1.png) failed, error code is 3
+
+cocos2d: removeChildByTag(tag = 301): child not found!
+
+cocos2d: removeChildByTag(tag = 302): child not found!
+
+cocos2d: removeChildByTag(tag = 303): child not found!
+
+[LUA-print] HomeScene onExit
+
+[LUA-print] GamePlayScene onEnterTransitionFinish
+
+Get data from file(particle/boo1.png) failed, error code is 3
+
+[LUA-print] GamePlayScene onExit
+
+[LUA-print] GamePlayScene cleanup
+
